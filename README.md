@@ -71,3 +71,8 @@ Every contribution helps us build a richer learning experience for everyone!
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/schrodingerspet/CG-notes.git
+
+
+<p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=CG-Notes&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views"/>
+</p>
